@@ -1,0 +1,20 @@
+logs/
+*.log
+
+# output
+output/
+
+# xxx
+test/
+test/*
+
+# 缓存
+__pycache__
+*/__pycache__
+
+fig
+
+kaggle_deepfm/
+
+
+
